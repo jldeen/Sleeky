@@ -51,7 +51,7 @@ input[type="submit"] {
 input.button:hover,
 input.submit:hover,
 input[type="submit"]:hover {
-  background: #0056b3 !important;
+  background: #fcb953 !important;
 }
 input[type="button"]:disabled,
 input[type="submit"]:disabled {
