@@ -109,7 +109,7 @@ $(document).ready(function () {
   function handleNav() {
     // Add logo
     $("#wrap").prepend(
-      `<img class="logo" style="width=4%" src="${url}/assets/img/ecs.png">`
+      `<img class="logo" style="width: 4%" src="${url}/assets/img/ecs.png">`
     );
 
     // Add mobile nav hamburger
